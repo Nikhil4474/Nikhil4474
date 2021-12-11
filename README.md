@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil4474
 - 👀 I’m interested in ... playing video games, mountain biking, reading, etc
-- 🌱 I’m currently learning ...things i dont need to in school
-- 💞️ I’m looking to collaborate on ...nothing
+- 🌱 I’m currently learning ... JavaScript, and all sorts of unneeded stuff in school
+- 💞️ I’m looking to collaborate on ...null
 - 📫 How to reach me ... dont
 
 <!---
