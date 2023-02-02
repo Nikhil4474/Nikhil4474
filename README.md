@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhil4474
-- 👀 I’m interested in ... playing video games, mountain biking, reading, etc
-- 🌱 I’m currently learning ... JavaScript, and all sorts of stuff in school, which about 80% I won't be using in the future
-- 💞️ I’m looking to collaborate on ... null
+- 👀 I’m interested in ... finishing the robot code this year
+- 🌱 I’m currently learning ... Opencv for limelight pipelines
+- 💞️ I’m looking to collaborate on ... None
 - 📫 How to reach me ... ninuganti15@gmail.com
 
 <!---
