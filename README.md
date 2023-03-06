@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nikhil4474
 - 👀 I’m interested in ... finishing the robot code this year
 - 🌱 I’m currently learning ... Sentiment Analaysis
-- 💞️ I’m looking to collaborate on ... None
 - 📫 How to reach me ... ninuganti15@gmail.com
 
 <!---
