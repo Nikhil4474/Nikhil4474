@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nikhil4474
 - 👀 I’m interested in ... OpenCV and Machine Learning
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... Java, OpenCV - Python, JS
 - 📫 How to reach me ... Email: ninuganti15@gmail.com, Instagram: @Nikhil77477
 
 <!---
